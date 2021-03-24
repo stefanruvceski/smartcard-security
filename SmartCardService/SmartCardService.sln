@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCardTrustAuth", "SmartCardTrustAuth\SmartCardTrustAuth.csproj", "{5997F7F9-5674-4E6B-8BFA-C8C4AD4A2658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{DF23EE0D-70D4-44F1-83DE-BF1DA3921F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{AF6F7BF9-32B3-4DCA-94AD-A028478E6B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{58757717-8CE4-4824-9760-4B002AF882FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{779F2D06-E240-484B-AD75-4CEBC1EDC212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupTrustAuth", "BackupTrustAuth\BackupTrustAuth.csproj", "{9FEFC50B-50D3-4980-A236-CA8927012772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5997F7F9-5674-4E6B-8BFA-C8C4AD4A2658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5997F7F9-5674-4E6B-8BFA-C8C4AD4A2658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5997F7F9-5674-4E6B-8BFA-C8C4AD4A2658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5997F7F9-5674-4E6B-8BFA-C8C4AD4A2658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF23EE0D-70D4-44F1-83DE-BF1DA3921F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF23EE0D-70D4-44F1-83DE-BF1DA3921F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF23EE0D-70D4-44F1-83DE-BF1DA3921F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF23EE0D-70D4-44F1-83DE-BF1DA3921F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6F7BF9-32B3-4DCA-94AD-A028478E6B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6F7BF9-32B3-4DCA-94AD-A028478E6B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6F7BF9-32B3-4DCA-94AD-A028478E6B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6F7BF9-32B3-4DCA-94AD-A028478E6B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58757717-8CE4-4824-9760-4B002AF882FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58757717-8CE4-4824-9760-4B002AF882FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58757717-8CE4-4824-9760-4B002AF882FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58757717-8CE4-4824-9760-4B002AF882FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779F2D06-E240-484B-AD75-4CEBC1EDC212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779F2D06-E240-484B-AD75-4CEBC1EDC212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779F2D06-E240-484B-AD75-4CEBC1EDC212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779F2D06-E240-484B-AD75-4CEBC1EDC212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEFC50B-50D3-4980-A236-CA8927012772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEFC50B-50D3-4980-A236-CA8927012772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEFC50B-50D3-4980-A236-CA8927012772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEFC50B-50D3-4980-A236-CA8927012772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69ABDEB2-5466-41E8-8F5A-1C2844C0DA50}
+	EndGlobalSection
+EndGlobal

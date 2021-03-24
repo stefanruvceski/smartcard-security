@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfSmartCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SmartCard>
+    <PinCode>hGe49lx65RsgsMsVBibgYx9oL1OS8//kBhKK1jcDop+j63P6l6+wxxJX8NOweHc+aMudK0zNzGg1nw2mK8PFEDlTlVkVtGT/wqB34fgLm6YBKRXs6Gl037g+WbP3Q36L1eg0PGJiK9j8J6oiZxOpCHmBgdhqSrm++JQ6D3Nd8q3qgvh86cSxZsIMyDsLgy2w91FskUyhPv0t5qSz6/6/luE0HfMrprO7HgqCK+wiNGia4jAGUd4jrTwpf+VGgDElS5awo5/p326065EIDxuiq022mzh0m85kHUa+RypkzoIwsvRlvN/pJd+0utPadAM0Xlj+UtWKvxod4Vf405SipA==</PinCode>
+    <Amount>7000</Amount>
+    <InvalidCnt>0</InvalidCnt>
+    <CreateCertificate>A5BAB87DB1576B60113B0427647E2E675F80E571</CreateCertificate>
+    <SignCertificate>22E2059A82A26CED16BF231B094D7F7C3CE0FD30</SignCertificate>
+    <Username>ClientUser3</Username>
+  </SmartCard>
+</ArrayOfSmartCard>

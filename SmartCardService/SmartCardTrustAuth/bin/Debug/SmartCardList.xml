@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfSmartCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SmartCard>
+    <PinCode>2hC1JV+7JR0KA8nnSojZkaR1pYLelZ5Zx49YQiLPKpHTko3ZMJwTBUYd5iOQ4lbK7BPUM03/wS4zkU1DXjk4rnd7WbbBnJZvrON0Go8qvKXb2gPKDYUGNqkiDh3i2cqqBywN0p5q2Hf9K6BQQLyEB9sIUS+MRHCkOxbm1x1wfkOkYmaLWc9rsd6+DUNDucv/3mkssC34ucmaABAEKXrXu63L5oWIopXvThUh45pnU1zLamzmErfdMIPSGSQYOW+THr44Gql666IFonOFsxuBhobHrdOBAIBmnLBqUQWmrRMBNZYVUXoNhbwx7ezxJlU8iqdxEf7SQR6hIGUMMLpqQg==</PinCode>
+    <Amount>25000</Amount>
+    <InvalidCnt>0</InvalidCnt>
+    <CreateCertificate>ED5E1C4539BFC0B3614839B35AE31E909BE85572</CreateCertificate>
+    <SignCertificate>54BB85E2AE48C5FC0DCBF7559624046307EEC150</SignCertificate>
+    <Username>ClientUser</Username>
+  </SmartCard>
+  <SmartCard>
+    <PinCode>cyMtLPNDWjW52lGLWzX08O95LQXq7Zy/5AQeKc0bQIbtsVpzNoPpPTMo1FtjTSKWn1RccxF999rsbfaqVFph1YxC4oLz5eOASIU93B5pZbvMHaBzLhupZi15DKxrTfOWxXt6vUOxkLZT23slMgBVSmuSjUT17dQCUSCIpqtftppQsF5fY9bI1CTvjk7VNpTEU2OZwKx0B0pLM/0aWCDizdXmfJJxEH1ADVIG4+Zss16l0f9moWQpjSY/18eCpSSjbPuNrhE5el2Mbr1HCRf738DUu86jwOq1s1KFZo2j1EkmjC9TjEvhtlzJa0zQztimf23gmHefRG3s8W2gvXupMg==</PinCode>
+    <Amount>0</Amount>
+    <InvalidCnt>0</InvalidCnt>
+    <CreateCertificate>0F5E693074738986B92EAE61A7F2C3EEB507B90E</CreateCertificate>
+    <SignCertificate>1E8941CA94E224F90AC6792199F14BE94C77FB50</SignCertificate>
+    <Username>ClientUser2</Username>
+  </SmartCard>
+  <SmartCard>
+    <PinCode>5BfIYkH0xlD2HIg5baISAi1N13uNa7/YXVDGf5IljtLrpONk5obVymEHDvxKY9/RuEMTudrTaI9ZbsqUho+RJKA0NreKVsmjXYmLOZHWKVPgR7cNtie3csKSJfIAjRfGPBr5i9fpYX03hUy8xU6ZNqF8gecUJZoFCIuNlFxChtTFaVxrfgN5R5jsBx9QB318zF0M7KXI+jsXfKjp5vPIao9GQ6CONMTmGZwFKJbDbuUXhgZKBgd1cdMzCPIaWbFZiNN6CIRd2i7TX2Gh88yTPtTnIN/1G8fIGJMbvzEws8ZolA3/QS+7Tnody+DZ+wY/8ukzJLh/ALXoF/Cf9fj/yg==</PinCode>
+    <Amount>10000</Amount>
+    <InvalidCnt>0</InvalidCnt>
+    <CreateCertificate>E811FCC0AE29172ED19930968119F49196666697</CreateCertificate>
+    <SignCertificate>65DDC45EB53758E9985CFCE2C1E30D027ED23F5C</SignCertificate>
+    <Username>ClientUser3</Username>
+  </SmartCard>
+</ArrayOfSmartCard>

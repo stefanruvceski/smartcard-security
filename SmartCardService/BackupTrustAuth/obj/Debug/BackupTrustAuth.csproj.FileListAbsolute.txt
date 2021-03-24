@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\bin\Debug\BackupTrustAuth.exe.config
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\bin\Debug\BackupTrustAuth.exe
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\bin\Debug\BackupTrustAuth.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\obj\Debug\BackupTrustAuth.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\obj\Debug\BackupTrustAuth.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\obj\Debug\BackupTrustAuth.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\obj\Debug\BackupTrustAuth.exe
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\BackupTrustAuth\obj\Debug\BackupTrustAuth.pdb

@@ -1,0 +1,185 @@
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\bin\Debug\ATM.exe.config
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\bin\Debug\ATM.exe
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\bin\Debug\ATM.pdb
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\bin\Debug\Common.dll
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\bin\Debug\Common.pdb
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\obj\Debug\ATM.exe
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\obj\Debug\ATM.pdb
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\bin\Debug\Manager.dll
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Stefan\Documents\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Stefan\Documents\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Stefan\Documents\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Stefan\Documents\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Stefan\Documents\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Stefan\Documents\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Stefan\Documents\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Stefan\Documents\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe.config
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Common.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Common.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\obj\Debug\ATM.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe.config
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\ATM.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Common.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Common.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\ATM\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\bin\Debug\ATM.exe.config
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\bin\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\bin\Debug\ATM.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\bin\Debug\Common.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\bin\Debug\Common.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\obj\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.exe.config
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Common.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Common.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.exe
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\ATM\obj\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\bin\Debug\ATM.exe.config
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\bin\Debug\ATM.exe
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\bin\Debug\ATM.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\obj\Debug\ATM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\obj\Debug\ATM.exe
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\ATM\obj\Debug\ATM.pdb

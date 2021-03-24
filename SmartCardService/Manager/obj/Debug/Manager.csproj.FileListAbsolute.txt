@@ -1,0 +1,92 @@
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\Manager\bin\Debug\Manager.dll
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\Manager\bin\Debug\Manager.pdb
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\Manager\obj\Debug\Manager.dll
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\Manager\obj\Debug\Manager.pdb
+D:\FTN\IV Godina\VII Semestar\BLOK2(SBEES)\SmartCardService\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Stefan\Documents\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Stefan\Documents\SmartCardService\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Stefan\Documents\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_7_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Stefan\Documents\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\Manager\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_tekuci\SmartCardService\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\Manager\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\Manager\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\Manager\obj\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Projekat_8_11_novi\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\Projekat_9_11\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat_9_11_novi\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\PR86_2015\DIRANO - Copy\SmartCardService\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\DIRANO_novi\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Stefan\Desktop\DIRANO_novi\SmartCardService\Manager\obj\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\bin\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\bin\Debug\Manager.pdb
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.dll
+E:\Fakultet\CetvrtaGodina\Blok 2\Projekat\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Stefan\Documents\GitHub\Blok2_SmartCardService\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Downloads\Blok2_SmartCardService-master\Blok2_SmartCardService-master\PROJEKAT RADI\SmartCardService\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\obj\Debug\Manager.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Blok2_SmartCardService-master\SmartCardService\Manager\obj\Debug\Manager.pdb
